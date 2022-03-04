@@ -25,5 +25,9 @@ border-radius: 20px;
 }
 
 input[type="submit"]{
-    
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: none;
+    background-color: #d7fad2;
+    text-align: center;
 }
