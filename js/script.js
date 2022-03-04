@@ -21,6 +21,13 @@ form.addEventListener("submit", function(e){
 
     const dd = parseInt(date[2]);
 
+    let day = ( ( (cc/4) -2*cc-1) + ((5*yy/4) ) + ((26*(mm+1)/10)) + dd ) % 7;
+
+    day = Math.floor(day);
+
+
+    console.log(day);
+
     console.log(cc, yy, mm, dd);
 
 
