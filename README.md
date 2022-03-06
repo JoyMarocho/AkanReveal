@@ -1,6 +1,6 @@
-# Portfolio
+# AkanReveal
 ##### By JOy Marocho
-### It is a description of my resume.
+### It is a description of AKAN REVEAL.
 ## Table of Content
 + [Description](#description)
 + [Installation Requirement](#Installation)
@@ -21,7 +21,7 @@
  
  ### Installation Process
  
- [Go Back to the top](#portfolio)
+ [Go Back to the top](#AkanReveal)
  ## Technology Used
  * HTML - which was used to build the structure of the pages.
  
@@ -34,7 +34,7 @@
  ## Reference
  * Materialize CSS
  
- [Go Back to the top](#portfolio)
+ [Go Back to the top](#AkanReveal)
 
   ## Licence
  
