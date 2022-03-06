@@ -3,21 +3,17 @@
     font-size: 18px;
 }
 .SecondPage{
-    background-color: grey;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
-body{
+.body{
+
     background-color: mistyrose;
 }
 
 .navbar {
 padding: 10px;
 background-color: blanchedalmond !important;
-}
-
-.nav-item{
-    text-decoration-color: black;
 }
 
 .wrapper{
