@@ -44,6 +44,14 @@ input[type="submit"]{
     text-align: center;
 }
 
+input[type="reset"]{
+    padding: 6px 11px;
+    border-radius: 5px
+    border: none;
+    background-color: #d7fad2;
+    text-align: center;
+}
+
 .navbar {
 padding: 10px;
 background-color: blanchedalmond !important;
