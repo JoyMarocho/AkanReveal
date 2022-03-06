@@ -2,6 +2,12 @@
     width: 50%;
     font-size: 18px;
 }
+
+.Information{
+    width: 75%;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
 .wrapper{
     margin: 0 auto;
     display: flex;
@@ -35,4 +41,16 @@ padding: 10px;
 background-color: blanchedalmond !important;
 text-align: center;
 text-decoration-color: black;
+}
+
+.Naming{
+    width: 75px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.TwinTable{
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
 }
