@@ -5,7 +5,8 @@
 + [Description](#description)
 + [Installation Requirement](#Installation)
 + [Technology Used](#technology-used)
-+ [Reference](#reference)
++ [Behaviour Driven Development](#behaviour-driven-development)
++ [Development](#development)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 ## Description
@@ -33,16 +34,16 @@
  
  ## Behaviour Driven Development
  
- * 1. Display Form For Entering Date and Gender
+ 1. Display Form For Entering Date and Gender
         *INPUT: "User's Birth date Entered"
         *INPUT: "User's Gender Entered"
         *OUTPUT: "Displays User's Akan Name According to submitted Date And Gender"
 
- * 2. Displays an Error Message if Date Input Left Blank
+2. Displays an Error Message if Date Input Left Blank
         * INPUT: ""
         * OUTPUT: "Displays Error Message"
 
- *3. 
+ 3. 
 
   ## Development
   * Want to contribute? Great!
@@ -54,7 +55,7 @@
         * Make the appropriate changes in the files
         * Add changes to reflect the changes made
         * Commit your changes (git commit -am 'Improve feature')
-        *Push to the branch (git push origin improve-feature)
+        * Push to the branch (git push origin improve-feature)
         * Create a Pull Request
 
 ##LINK TO THE LIVE SITE: https://joymarocho.github.io/AkanReveal/
