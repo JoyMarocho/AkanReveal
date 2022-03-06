@@ -44,7 +44,6 @@ text-decoration-color: black;
 }
 
 .Naming{
-    width: 75px;
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -53,4 +52,19 @@ text-decoration-color: black;
     display: table;
     border-collapse: separate;
     box-sizing: border-box;
+    text-indent: initial;
+    width: max-content;
+    min-width: 100vw;
+    white-space: pre;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    border-spacing: 0px;
+    border-color: gray;
+    margin: 0px;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
 }
