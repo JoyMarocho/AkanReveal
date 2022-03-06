@@ -2,7 +2,15 @@
     width: 50%;
     font-size: 18px;
 }
+.SecondPage{
+    background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+body{
+    background-color: mistyrose;
 
+}
 
 .wrapper{
     margin: 0 auto;
