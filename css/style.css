@@ -8,6 +8,14 @@
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
 }
+.Collor{
+    background-color: pink;
+}
+
+.img{
+    float: center;
+}
+
 .wrapper{
     margin: 0 auto;
     display: flex;
