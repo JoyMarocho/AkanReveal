@@ -9,7 +9,15 @@
 }
 body{
     background-color: mistyrose;
+}
 
+.navbar {
+padding: 10px;
+background-color: blanchedalmond !important;
+}
+
+.nav-item{
+    text-decoration-color: black;
 }
 
 .wrapper{
