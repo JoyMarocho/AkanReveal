@@ -24,7 +24,7 @@
  
  ### Installation Process
  
- [Go Back to the top](#AkanReveal)
+ 
  ## Technology Used
  * HTML - which was used to build the structure of the pages.
  
@@ -43,7 +43,12 @@
         * INPUT: ""
         * OUTPUT: "Displays Error Message"
 
- 3. 
+ 3. Displays an Error Message if Gender Input Left Blank
+        * INPUT: ""
+        * OUTPUT: "Displays Error Message"
+4. Clear Form and Reset the Message on click
+        *INPUT: "Click Reset Button"
+        * OUTPUT: "Clears and Resets the Form"
 
   ## Development
   * Want to contribute? Great!
