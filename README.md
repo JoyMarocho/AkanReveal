@@ -35,9 +35,9 @@
  ## Behaviour Driven Development
  
  1. Display Form For Entering Date and Gender
-        *INPUT: "User's Birth date Entered"
-        *INPUT: "User's Gender Entered"
-        *OUTPUT: "Displays User's Akan Name According to submitted Date And Gender"
+        * INPUT: "User's Birth date Entered"
+        * INPUT: "User's Gender Entered"
+        * OUTPUT: "Displays User's Akan Name According to submitted Date And Gender"
 
 2. Displays an Error Message if Date Input Left Blank
         * INPUT: ""
@@ -47,7 +47,7 @@
         * INPUT: ""
         * OUTPUT: "Displays Error Message"
 4. Clear Form and Reset the Message on click
-        *INPUT: "Click Reset Button"
+        * INPUT: "Click Reset Button"
         * OUTPUT: "Clears and Resets the Form"
 
   ## Development
