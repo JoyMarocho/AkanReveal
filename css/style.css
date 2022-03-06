@@ -16,6 +16,16 @@ padding: 10px;
 background-color: blanchedalmond !important;
 }
 
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+}
 .wrapper{
     margin: 0 auto;
     display: flex;
