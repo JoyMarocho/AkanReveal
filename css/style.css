@@ -9,10 +9,26 @@
     font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
 }
+
 .Collor{
     background-color: plum;
-
 }
+
+/* body{
+    position: relative;
+    font-weight: 700;
+}
+body::before{
+   
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-image: url("../bck.jpg");
+    background-size: cover;
+    opacity: 0.2;
+} */
 
 .img{
     float: center;
@@ -34,7 +50,8 @@ form{
     box-shadow: 16px 10px 14px -2px rgba(128,128,128,0.75);
 -webkit-box-shadow: 16px 10px 14px -2px rgba(128,128,128,0.75);
 -moz-box-shadow: 16px 10px 14px -2px rgba(128,128,128,0.75);
-background-color: #dedede;
+background-color: #e7dfdf;
+font-size: 18px;
 border-radius: 20px;
 }
 
@@ -63,7 +80,7 @@ text-decoration-color: black;
 
 .Naming{
     float: left;
-    font-size: 20px;
+    font-size: 22px;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -88,10 +105,11 @@ text-decoration-color: black;
     border-color: black;
 }
 .background{
-    background-color: mediumorchid;
+    background-color: plum;
     font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .headline{
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
