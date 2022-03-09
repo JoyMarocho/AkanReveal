@@ -1,16 +1,20 @@
-.description{
-    width: 75%;
-    font-size: 22px;
+.description {
+    width: 50%;
+    font-size: 26px;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+
 }
 
-body{
+body {
     position: relative;
     font-weight: 700;
     background-image: url("../bck.jpg");
 }
-body::before{
-   
+
+body::before {
+
     position: absolute;
     top: 0px;
     left: 0px;
@@ -20,62 +24,66 @@ body::before{
     opacity: 0.2;
 }
 
-.img{
+.img {
     float: center;
 }
 
-.wrapper{
+.wrapper {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.date{
+
+.date {
     margin: 20px 0px;
 }
 
-form{
+form {
     padding: 100px;
-    box-shadow: 16px 10px 14px -2px rgba(128,128,128,0.75);
--webkit-box-shadow: 16px 10px 14px -2px rgba(128,128,128,0.75);
--moz-box-shadow: 16px 10px 14px -2px rgba(128,128,128,0.75);
-background-color: #e7dfdf;
-font-size: 18px;
-border-radius: 20px;
+    box-shadow: 16px 10px 14px -2px rgba(128, 128, 128, 0.75);
+    -webkit-box-shadow: 16px 10px 14px -2px rgba(128, 128, 128, 0.75);
+    -moz-box-shadow: 16px 10px 14px -2px rgba(128, 128, 128, 0.75);
+    background-color: #add3f1;
+    font-size: 20px;
+    border-radius: 20px;
 }
 
-input[type="submit"]{
+input[type="submit"] {
     padding: 5px 10px;
     border-radius: 3px;
     border: none;
     background-color: #d7fad2;
     text-align: center;
+    font-size: 18px;
 }
 
-input[type="reset"]{
+input[type="reset"] {
     padding: 6px 11px;
-    border-radius: 5px
-    border: none;
+    border-radius: 5px border: none;
     background-color: #d7fad2;
     text-align: center;
 }
 
 .navbar {
-padding: 10px;
-background-color: blanchedalmond !important;
-text-align: center;
-text-decoration-color: black;
+    padding: 20px;
+    background-color: blanchedalmond !important;
+    text-align: center;
+    color: black;
 }
 
-.Naming{
-    float: left;
-    font-size: 22px;
+.Naming {
+    float: center;
+    font-size: 26px;
     text-align: justify;
+    width: 50%;
     font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bolder;
 }
 
-.TwinTable{
+.TwinTable {
     display: table;
     border-collapse: separate;
     box-sizing: border-box;
@@ -89,17 +97,22 @@ text-decoration-color: black;
     border-color: black;
     margin: 0px;
 }
+
 .tr {
     display: table-row;
     vertical-align: inherit;
     border-color: black;
 }
-.background{
+
+.background {
     background-color: plum;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
-.headline{
-    font-size: 20px;
+
+.headline {
+    font-size: 22px;
+    font-weight: bolder;
+    width: 50%;
     font-family: 'Times New Roman', Times, serif;
 }
