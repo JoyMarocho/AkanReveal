@@ -4,19 +4,10 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-.Information{
-    width: 75%;
-    font-size: 22px;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-.Collor{
-    background-color: plum;
-}
-
-/* body{
+body{
     position: relative;
     font-weight: 700;
+    background-image: url("../bck.jpg");
 }
 body::before{
    
@@ -25,10 +16,9 @@ body::before{
     left: 0px;
     right: 0px;
     bottom: 0px;
-    background-image: url("../bck.jpg");
     background-size: cover;
     opacity: 0.2;
-} */
+}
 
 .img{
     float: center;
